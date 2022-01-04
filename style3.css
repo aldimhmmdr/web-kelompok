@@ -1,0 +1,11 @@
+.banner {
+  background: url("./img/1st.jpg") no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: white;
+}
+
+.lingkaran i {
+  position: relative;
+}
